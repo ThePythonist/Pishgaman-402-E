@@ -13,3 +13,4 @@ numbers = [10, 50, 30, 40, 20]
 # print(maximum)
 # -----------------------------------------
 print(max(numbers))
+print(min(numbers))
